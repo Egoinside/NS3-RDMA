@@ -26,7 +26,7 @@ ns-3 code style check script: `utils/check-style.py`.
 4. separate task:
 
    1. switch node
-   2. reliable UDP 
+   2. reliable UDP (app/udp-echo-client)
    3. RDMA (net-device part)
 
 5. 对后续 RDMA 上 load-balance 工作友好比较难。
